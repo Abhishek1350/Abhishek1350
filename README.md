@@ -4,7 +4,7 @@
 
 </div><br/>
 
-## 🌐 Socials:
+# Social Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1765F6.svg?logo=steemit&logoColor=white)](https://www.imabhishek.online/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imabhishek.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-bhardwaj-76b9a721b/)
 
@@ -20,7 +20,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishek1350&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
-</div>
+</div><br/>
 
 <div align="center">
 
@@ -28,5 +28,5 @@
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=abhishek1350&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhishek1350&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
