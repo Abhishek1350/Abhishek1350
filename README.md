@@ -8,8 +8,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1765F6.svg?logo=steemit&logoColor=white)](https://www.imabhishek.online/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imabhishek.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-bhardwaj-76b9a721b/)
 
-# GitHub Stats:
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=abhishek1350&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true)<br/>
