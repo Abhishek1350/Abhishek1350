@@ -10,12 +10,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=abhishek1350&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true)<br/>
-
-</div><br/>
-
-<div align="center">
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abhishek1350&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 </div><br/>
