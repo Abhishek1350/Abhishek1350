@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishek1350&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abhishek1350&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 </div><br/>
 
